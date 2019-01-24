@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentProperties DeviceType="Desktop">
+  <Component type="ScriptImage" id="background" x="0" y="-63" width="633"
+             height="381" fileName="{PROJECT_FOLDER}Wallpaper.png" processorId="AG-20">
+    <Component type="ScriptButton" id="PP button" x="30" y="124" parentComponent="background"
+               height="18" width="160" filmstripImage="{PROJECT_FOLDER}Predictive_playback_button.png"
+               numStrips="6" defaultValue="1"/>
+    <Component type="ScriptButton" id="Release Samples Button" x="30" y="144"
+               width="160" height="18" parentComponent="background" filmstripImage="{PROJECT_FOLDER}Release Samples button.png"
+               numStrips="6" defaultValue="1"/>
+    <Component type="ScriptSlider" id="Neighbour RR" x="29" y="164" max="2"
+               filmstripImage="{PROJECT_FOLDER}neighbour rr slider.png" numStrips="3"
+               height="18" width="160" parentComponent="background" defaultValue="1"
+               stepSize="1"/>
+    <Component type="ScriptSlider" id="Soft Velocity" x="29" y="184" width="160"
+               height="18" parentComponent="background" filmstripImage="{PROJECT_FOLDER}soft velocity slider.png"
+               numStrips="128" min="1" max="127" defaultValue="50" stepSize="1"/>
+    <Component type="ScriptSlider" id="12 Str Volume" x="29" y="204" width="160"
+               height="18" parentComponent="background" filmstripImage="{PROJECT_FOLDER}12 string slider.png"
+               max="100" numStrips="101" stepSize="1"/>
+    <Component type="ScriptSlider" id="Power Slap" x="205" y="164" width="160"
+               height="18" parentComponent="background" filmstripImage="{PROJECT_FOLDER}Power Slap.png"
+               numStrips="2" mouseSensitivity="0" stepSize="1"/>
+    <Component type="ScriptSlider" id="Harmonics" x="205" y="184" width="160"
+               height="18" parentComponent="background" stepSize="1" mouseSensitivity="0"
+               numStrips="2" filmstripImage="{PROJECT_FOLDER}Harmonics.png"/>
+    <Component type="ScriptSlider" id="Release Knob" x="37" y="250" width="49"
+               height="49" parentComponent="background" filmstripImage="{PROJECT_FOLDER}knob.png"
+               numStrips="64" min="25" max="5000" defaultValue="75" mode="Time"/>
+  </Component>
+  <Component type="ScriptFloatingTile" id="keyboard" x="0" y="246" ContentType="Keyboard"
+             bgColour="4284769380" itemColour="436207615" itemColour2="4294967295"
+             Data="{&#13;&#10;  &quot;KeyWidth&quot;: 14,&#13;&#10;  &quot;DisplayOctaveNumber&quot;: false,&#13;&#10;  &quot;LowKey&quot;: 24,&#13;&#10;  &quot;HiKey&quot;: 127,&#13;&#10;  &quot;CustomGraphics&quot;: false,&#13;&#10;  &quot;DefaultAppearance&quot;: true,&#13;&#10;  &quot;BlackKeyRatio&quot;: 0.69999999,&#13;&#10;  &quot;ToggleMode&quot;: false,&#13;&#10;  &quot;MidiChannel&quot;: 1,&#13;&#10;  &quot;UseVectorGraphics&quot;: false,&#13;&#10;  &quot;UseFlatStyle&quot;: false,&#13;&#10;  &quot;MPEKeyboard&quot;: false,&#13;&#10;  &quot;MPEStartChannel&quot;: 2,&#13;&#10;  &quot;MPEEndChannel&quot;: 16&#13;&#10;}"
+             textColour="4294951115" width="633" height="100" FontSize="18"/>
+</ContentProperties>
