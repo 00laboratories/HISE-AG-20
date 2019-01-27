@@ -46,8 +46,8 @@
       </ChildProcessors>
     </Processor>
     <Processor Type="StreamingSampler" ID="sustain soft" Bypassed="0" Gain="1"
-               Balance="0" VoiceLimit="256" KillFadeTime="20" IconColour="0"
-               PreloadSize="64" BufferSize="32" VoiceAmount="256" SamplerRepeatMode="2"
+               Balance="0" VoiceLimit="128" KillFadeTime="20" IconColour="0"
+               PreloadSize="128" BufferSize="64" VoiceAmount="128" SamplerRepeatMode="2"
                RRGroupAmount="1" PitchTracking="1" OneShot="0" CrossfadeGroups="0"
                Purged="0" Reversed="0" NumChannels="1" UseStaticMatrix="0" Group0Table="24...............vO...f+....9C...vO"
                Group1Table="24...............vO...f+....9C...vO" Group2Table="24...............vO...f+....9C...vO"
@@ -57,12 +57,12 @@
       <ChildProcessors>
         <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
           <ChildProcessors>
-            <Processor Type="ScriptProcessor" ID="sustain soft script" Bypassed="0">
+            <Processor Type="MidiMuter" ID="sustain soft muter" Bypassed="0">
               <ChildProcessors/>
-              <Content/>
-              <UIData>
-                <ContentProperties DeviceType="Desktop"/>
-              </UIData>
+              <Content>
+                <Control type="ScriptButton" id="ignoreButton" value="1"/>
+                <Control type="ScriptButton" id="fixStuckNotes" value="1"/>
+              </Content>
             </Processor>
           </ChildProcessors>
         </Processor>
@@ -121,8 +121,8 @@
       </channels>
     </Processor>
     <Processor Type="StreamingSampler" ID="sustain hard" Bypassed="0" Gain="1"
-               Balance="0" VoiceLimit="256" KillFadeTime="20" IconColour="0"
-               PreloadSize="64" BufferSize="32" VoiceAmount="256" SamplerRepeatMode="2"
+               Balance="0" VoiceLimit="128" KillFadeTime="20" IconColour="0"
+               PreloadSize="128" BufferSize="64" VoiceAmount="128" SamplerRepeatMode="2"
                RRGroupAmount="1" PitchTracking="1" OneShot="0" CrossfadeGroups="0"
                Purged="0" Reversed="0" NumChannels="1" UseStaticMatrix="0" Group0Table="24...............vO...f+....9C...vO"
                Group1Table="24...............vO...f+....9C...vO" Group2Table="24...............vO...f+....9C...vO"
@@ -132,12 +132,12 @@
       <ChildProcessors>
         <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
           <ChildProcessors>
-            <Processor Type="ScriptProcessor" ID="sustain hard script" Bypassed="0">
+            <Processor Type="MidiMuter" ID="sustain hard muter" Bypassed="0">
               <ChildProcessors/>
-              <Content/>
-              <UIData>
-                <ContentProperties DeviceType="Desktop"/>
-              </UIData>
+              <Content>
+                <Control type="ScriptButton" id="ignoreButton" value="1"/>
+                <Control type="ScriptButton" id="fixStuckNotes" value="1"/>
+              </Content>
             </Processor>
           </ChildProcessors>
         </Processor>

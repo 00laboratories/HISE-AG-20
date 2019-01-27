@@ -21,14 +21,9 @@ Globals.storeActiveNoteInfo = function(note, velocity, id){
 };
 
 // fade out all notes of input note value and reset active note values
-Globals.releaseActiveNote = function(note){
-	for(var i = 0; i < 32; i++){
-	    if(Globals.active_notes[i].note == note){   
-	        Synth.addVolumeFade(Globals.active_notes[i].id, Globals.Release_Knob.getValue(), -100); 
-	        Globals.active_notes[i].note = 0;
-	        Globals.active_notes[i].velocity = 0;
-	        Globals.active_notes[i].id = 0;
-	        Globals.active_notes[i].start_time = 0;
-	    }
-	};
+Globals.resetActiveNote = function(i){
+    Globals.active_notes[i].note = 0;
+    Globals.active_notes[i].velocity = 0;
+    Globals.active_notes[i].id = 0;
+    Globals.active_notes[i].start_time = 0;
 };
