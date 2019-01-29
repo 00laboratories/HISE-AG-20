@@ -4,14 +4,15 @@ Globals.playable_range = [38,76];
 // predictive playback 
 Globals.playback_delay = 25/1000; // 25 ms
 
-// soft/hard sample velocity split point 
-Globals.soft_velocity = 50;
-
 // interval range
 Globals.interval_boundaries = [50,71];
 
 // current notes
 Globals.midiList = Engine.createMidiList();
+Globals.midiList.fill(0);
+
+Globals.CC = Engine.createMidiList();
+Globals.CC.fill(0);
 
 Globals.key_switches = {
     perc:[24,28],

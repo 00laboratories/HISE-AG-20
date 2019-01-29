@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="interval 5th soft" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s3 soft 50.wav"
+          Duplicate="1" MonolithOffset="0" MonolithLength="425984" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s3 soft 51.wav"
+          Duplicate="1" MonolithOffset="425984" MonolithLength="352256"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s3 soft 52.wav"
+          Duplicate="1" MonolithOffset="778240" MonolithLength="315392"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s3 soft 53.wav"
+          Duplicate="1" MonolithOffset="1093632" MonolithLength="270336"
+          SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s3 soft 54.wav"
+          Duplicate="1" MonolithOffset="1363968" MonolithLength="397312"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s4 soft 55.wav"
+          Duplicate="1" MonolithOffset="1761280" MonolithLength="356352"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s4 soft 56.wav"
+          Duplicate="1" MonolithOffset="2117632" MonolithLength="348160"
+          SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s4 soft 57.wav"
+          Duplicate="1" MonolithOffset="2465792" MonolithLength="372736"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s4 soft 58.wav"
+          Duplicate="1" MonolithOffset="2838528" MonolithLength="331776"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s4 soft 59.wav"
+          Duplicate="1" MonolithOffset="3170304" MonolithLength="356352"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s4 soft 60.wav"
+          Duplicate="1" MonolithOffset="3526656" MonolithLength="352256"
+          SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s4 soft 61.wav"
+          Duplicate="1" MonolithOffset="3878912" MonolithLength="311296"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s4 soft 62.wav"
+          Duplicate="1" MonolithOffset="4190208" MonolithLength="389120"
+          SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s4 soft 63.wav"
+          Duplicate="1" MonolithOffset="4579328" MonolithLength="385024"
+          SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s4 soft 64.wav"
+          Duplicate="1" MonolithOffset="4964352" MonolithLength="409600"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s4 soft 65.wav"
+          Duplicate="1" MonolithOffset="5373952" MonolithLength="430080"
+          SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s4 soft 66.wav"
+          Duplicate="1" MonolithOffset="5804032" MonolithLength="524288"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s4 soft 67.wav"
+          Duplicate="1" MonolithOffset="6328320" MonolithLength="401408"
+          SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s5 soft 68.wav"
+          Duplicate="1" MonolithOffset="6729728" MonolithLength="286720"
+          SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s5 soft 69.wav"
+          Duplicate="1" MonolithOffset="7016448" MonolithLength="290816"
+          SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s5 soft 70.wav"
+          Duplicate="1" MonolithOffset="7307264" MonolithLength="307200"
+          SampleRate="44100"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s5 soft 71.wav"
+          Duplicate="1" MonolithOffset="7614464" MonolithLength="303104"
+          SampleRate="44100"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\intervals\5th\raw\5th s5 soft 72.wav"
+          Duplicate="1" MonolithOffset="7917568" MonolithLength="331776"
+          SampleRate="44100"/>
+</samplemap>

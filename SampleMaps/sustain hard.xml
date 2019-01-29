@@ -3,157 +3,157 @@
 <samplemap ID="sustain hard" RRGroupAmount="1" MicPositions=";" SaveMode="2">
   <sample Root="38" LoKey="36" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 38.wav"
-          Duplicate="1" MonolithOffset="0" MonolithLength="454656" SampleRate="44100"/>
+          Duplicate="0" MonolithOffset="0" MonolithLength="454656" SampleRate="44100"/>
   <sample Root="39" LoKey="39" HiKey="39" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 39.wav"
-          Duplicate="1" MonolithOffset="454656" MonolithLength="417792"
+          Duplicate="0" MonolithOffset="454656" MonolithLength="417792"
           SampleRate="44100"/>
   <sample Root="40" LoKey="40" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 40.wav"
-          Duplicate="1" MonolithOffset="872448" MonolithLength="417792"
+          Duplicate="0" MonolithOffset="872448" MonolithLength="417792"
           SampleRate="44100"/>
   <sample Root="41" LoKey="41" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 41.wav"
-          Duplicate="1" MonolithOffset="1290240" MonolithLength="372736"
+          Duplicate="0" MonolithOffset="1290240" MonolithLength="372736"
           SampleRate="44100"/>
   <sample Root="42" LoKey="42" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 42.wav"
-          Duplicate="1" MonolithOffset="1662976" MonolithLength="339968"
+          Duplicate="0" MonolithOffset="1662976" MonolithLength="339968"
           SampleRate="44100"/>
   <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 43.wav"
-          Duplicate="1" MonolithOffset="2002944" MonolithLength="376832"
+          Duplicate="0" MonolithOffset="2002944" MonolithLength="376832"
           SampleRate="44100"/>
   <sample Root="44" LoKey="44" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 44.wav"
-          Duplicate="1" MonolithOffset="2379776" MonolithLength="331776"
+          Duplicate="0" MonolithOffset="2379776" MonolithLength="331776"
           SampleRate="44100"/>
   <sample Root="45" LoKey="45" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 45.wav"
-          Duplicate="1" MonolithOffset="2711552" MonolithLength="393216"
+          Duplicate="0" MonolithOffset="2711552" MonolithLength="393216"
           SampleRate="44100"/>
   <sample Root="46" LoKey="46" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 46.wav"
-          Duplicate="1" MonolithOffset="3104768" MonolithLength="368640"
+          Duplicate="0" MonolithOffset="3104768" MonolithLength="368640"
           SampleRate="44100"/>
   <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 47.wav"
-          Duplicate="1" MonolithOffset="3473408" MonolithLength="372736"
+          Duplicate="0" MonolithOffset="3473408" MonolithLength="372736"
           SampleRate="44100"/>
   <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 48.wav"
-          Duplicate="1" MonolithOffset="3846144" MonolithLength="348160"
+          Duplicate="0" MonolithOffset="3846144" MonolithLength="348160"
           SampleRate="44100"/>
   <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 49.wav"
-          Duplicate="1" MonolithOffset="4194304" MonolithLength="360448"
+          Duplicate="0" MonolithOffset="4194304" MonolithLength="360448"
           SampleRate="44100"/>
   <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 50.wav"
-          Duplicate="1" MonolithOffset="4554752" MonolithLength="446464"
+          Duplicate="0" MonolithOffset="4554752" MonolithLength="446464"
           SampleRate="44100"/>
   <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 51.wav"
-          Duplicate="1" MonolithOffset="5001216" MonolithLength="380928"
+          Duplicate="0" MonolithOffset="5001216" MonolithLength="380928"
           SampleRate="44100"/>
   <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 52.wav"
-          Duplicate="1" MonolithOffset="5382144" MonolithLength="376832"
+          Duplicate="0" MonolithOffset="5382144" MonolithLength="376832"
           SampleRate="44100"/>
   <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 53.wav"
-          Duplicate="1" MonolithOffset="5758976" MonolithLength="344064"
+          Duplicate="0" MonolithOffset="5758976" MonolithLength="344064"
           SampleRate="44100"/>
   <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 54.wav"
-          Duplicate="1" MonolithOffset="6103040" MonolithLength="389120"
+          Duplicate="0" MonolithOffset="6103040" MonolithLength="389120"
           SampleRate="44100"/>
   <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 55.wav"
-          Duplicate="1" MonolithOffset="6492160" MonolithLength="475136"
+          Duplicate="0" MonolithOffset="6492160" MonolithLength="475136"
           SampleRate="44100"/>
   <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 56.wav"
-          Duplicate="1" MonolithOffset="6967296" MonolithLength="434176"
+          Duplicate="0" MonolithOffset="6967296" MonolithLength="434176"
           SampleRate="44100"/>
   <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 57.wav"
-          Duplicate="1" MonolithOffset="7401472" MonolithLength="434176"
+          Duplicate="0" MonolithOffset="7401472" MonolithLength="434176"
           SampleRate="44100"/>
   <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 58.wav"
-          Duplicate="1" MonolithOffset="7835648" MonolithLength="380928"
+          Duplicate="0" MonolithOffset="7835648" MonolithLength="380928"
           SampleRate="44100"/>
   <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 59.wav"
-          Duplicate="1" MonolithOffset="8216576" MonolithLength="471040"
+          Duplicate="0" MonolithOffset="8216576" MonolithLength="471040"
           SampleRate="44100"/>
   <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 60.wav"
-          Duplicate="1" MonolithOffset="8687616" MonolithLength="454656"
+          Duplicate="0" MonolithOffset="8687616" MonolithLength="454656"
           SampleRate="44100"/>
   <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 61.wav"
-          Duplicate="1" MonolithOffset="9142272" MonolithLength="421888"
+          Duplicate="0" MonolithOffset="9142272" MonolithLength="421888"
           SampleRate="44100"/>
   <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 62.wav"
-          Duplicate="1" MonolithOffset="9564160" MonolithLength="405504"
+          Duplicate="0" MonolithOffset="9564160" MonolithLength="405504"
           SampleRate="44100"/>
   <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 63.wav"
-          Duplicate="1" MonolithOffset="9969664" MonolithLength="438272"
+          Duplicate="0" MonolithOffset="9969664" MonolithLength="438272"
           SampleRate="44100"/>
   <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 64.wav"
-          Duplicate="1" MonolithOffset="10407936" MonolithLength="434176"
+          Duplicate="0" MonolithOffset="10407936" MonolithLength="434176"
           SampleRate="44100"/>
   <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 65.wav"
-          Duplicate="1" MonolithOffset="10842112" MonolithLength="405504"
+          Duplicate="0" MonolithOffset="10842112" MonolithLength="405504"
           SampleRate="44100"/>
   <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 66.wav"
-          Duplicate="1" MonolithOffset="11247616" MonolithLength="356352"
+          Duplicate="0" MonolithOffset="11247616" MonolithLength="356352"
           SampleRate="44100"/>
   <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 67.wav"
-          Duplicate="1" MonolithOffset="11603968" MonolithLength="323584"
+          Duplicate="0" MonolithOffset="11603968" MonolithLength="323584"
           SampleRate="44100"/>
   <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 68.wav"
-          Duplicate="1" MonolithOffset="11927552" MonolithLength="319488"
+          Duplicate="0" MonolithOffset="11927552" MonolithLength="319488"
           SampleRate="44100"/>
   <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 69.wav"
-          Duplicate="1" MonolithOffset="12247040" MonolithLength="356352"
+          Duplicate="0" MonolithOffset="12247040" MonolithLength="356352"
           SampleRate="44100"/>
   <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 70.wav"
-          Duplicate="1" MonolithOffset="12603392" MonolithLength="249856"
+          Duplicate="0" MonolithOffset="12603392" MonolithLength="249856"
           SampleRate="44100"/>
   <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 71.wav"
-          Duplicate="1" MonolithOffset="12853248" MonolithLength="241664"
+          Duplicate="0" MonolithOffset="12853248" MonolithLength="241664"
           SampleRate="44100"/>
   <sample Root="72" LoKey="72" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 72.wav"
-          Duplicate="1" MonolithOffset="13094912" MonolithLength="249856"
+          Duplicate="0" MonolithOffset="13094912" MonolithLength="249856"
           SampleRate="44100"/>
   <sample Root="73" LoKey="73" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 73.wav"
-          Duplicate="1" MonolithOffset="13344768" MonolithLength="307200"
+          Duplicate="0" MonolithOffset="13344768" MonolithLength="307200"
           SampleRate="44100"/>
   <sample Root="74" LoKey="74" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 74.wav"
-          Duplicate="1" MonolithOffset="13651968" MonolithLength="270336"
+          Duplicate="0" MonolithOffset="13651968" MonolithLength="270336"
           SampleRate="44100"/>
   <sample Root="75" LoKey="75" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 75.wav"
-          Duplicate="1" MonolithOffset="13922304" MonolithLength="286720"
+          Duplicate="0" MonolithOffset="13922304" MonolithLength="286720"
           SampleRate="44100"/>
   <sample Root="76" LoKey="76" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\sustains\sustain hard 76.wav"
-          Duplicate="1" MonolithOffset="14209024" MonolithLength="180224"
+          Duplicate="0" MonolithOffset="14209024" MonolithLength="180224"
           SampleRate="44100"/>
 </samplemap>
