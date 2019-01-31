@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="noise slide" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="1" LoKey="1" HiKey="1" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 1.wav"
+          Duplicate="1" MonolithOffset="0" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="10" LoKey="10" HiKey="10" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 10.wav"
+          Duplicate="1" MonolithOffset="20480" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="11" LoKey="11" HiKey="11" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 11.wav"
+          Duplicate="1" MonolithOffset="40960" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="12" LoKey="12" HiKey="12" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 12.wav"
+          Duplicate="1" MonolithOffset="61440" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="13" LoKey="13" HiKey="13" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 13.wav"
+          Duplicate="1" MonolithOffset="81920" MonolithLength="16384" SampleRate="44100"/>
+  <sample Root="14" LoKey="14" HiKey="14" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 14.wav"
+          Duplicate="1" MonolithOffset="98304" MonolithLength="16384" SampleRate="44100"/>
+  <sample Root="15" LoKey="15" HiKey="15" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 15.wav"
+          Duplicate="1" MonolithOffset="114688" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="16" LoKey="16" HiKey="16" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 16.wav"
+          Duplicate="1" MonolithOffset="131072" MonolithLength="12288"
+          SampleRate="44100"/>
+  <sample Root="17" LoKey="17" HiKey="17" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 17.wav"
+          Duplicate="1" MonolithOffset="143360" MonolithLength="12288"
+          SampleRate="44100"/>
+  <sample Root="18" LoKey="18" HiKey="18" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 18.wav"
+          Duplicate="1" MonolithOffset="155648" MonolithLength="12288"
+          SampleRate="44100"/>
+  <sample Root="19" LoKey="19" HiKey="19" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 19.wav"
+          Duplicate="1" MonolithOffset="167936" MonolithLength="12288"
+          SampleRate="44100"/>
+  <sample Root="2" LoKey="2" HiKey="2" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 2.wav"
+          Duplicate="1" MonolithOffset="180224" MonolithLength="24576"
+          SampleRate="44100"/>
+  <sample Root="20" LoKey="20" HiKey="20" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 20.wav"
+          Duplicate="1" MonolithOffset="204800" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="21" LoKey="21" HiKey="21" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 21.wav"
+          Duplicate="1" MonolithOffset="221184" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="3" LoKey="3" HiKey="3" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 3.wav"
+          Duplicate="1" MonolithOffset="237568" MonolithLength="24576"
+          SampleRate="44100"/>
+  <sample Root="4" LoKey="4" HiKey="4" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 4.wav"
+          Duplicate="1" MonolithOffset="262144" MonolithLength="24576"
+          SampleRate="44100"/>
+  <sample Root="5" LoKey="5" HiKey="5" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 5.wav"
+          Duplicate="1" MonolithOffset="286720" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="6" LoKey="6" HiKey="6" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 6.wav"
+          Duplicate="1" MonolithOffset="303104" MonolithLength="12288"
+          SampleRate="44100"/>
+  <sample Root="7" LoKey="7" HiKey="7" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 7.wav"
+          Duplicate="1" MonolithOffset="315392" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="8" LoKey="8" HiKey="8" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 8.wav"
+          Duplicate="1" MonolithOffset="331776" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="9" LoKey="9" HiKey="9" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\noise\slide 9.wav"
+          Duplicate="1" MonolithOffset="348160" MonolithLength="16384"
+          SampleRate="44100"/>
+</samplemap>

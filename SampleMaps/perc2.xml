@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="perc2" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="1" LoKey="1" HiKey="1" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\final\body far down 1.wav"
+          Duplicate="0" MonolithOffset="0" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="2" LoKey="2" HiKey="2" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\final\body far down 2.wav"
+          Duplicate="0" MonolithOffset="49152" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="3" LoKey="3" HiKey="3" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\final\body far down 3.wav"
+          Duplicate="0" MonolithOffset="106496" MonolithLength="61440"
+          SampleRate="44100"/>
+  <sample Root="4" LoKey="4" HiKey="4" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\final\body far down 4.wav"
+          Duplicate="0" MonolithOffset="167936" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="5" LoKey="5" HiKey="5" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\final\body far down 5.wav"
+          Duplicate="0" MonolithOffset="217088" MonolithLength="40960"
+          SampleRate="44100"/>
+  <sample Root="6" LoKey="6" HiKey="6" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\final\body far down 6.wav"
+          Duplicate="0" MonolithOffset="258048" MonolithLength="45056"
+          SampleRate="44100"/>
+</samplemap>

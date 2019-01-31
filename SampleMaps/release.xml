@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="release" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="38" LoKey="38" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 38 fixed.wav"
+          Duplicate="1" MonolithOffset="0" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="39" LoKey="39" HiKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 39 fixed.wav"
+          Duplicate="1" MonolithOffset="20480" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 40 fixed.wav"
+          Duplicate="1" MonolithOffset="40960" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 41 fixed.wav"
+          Duplicate="1" MonolithOffset="61440" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 42 fixed.wav"
+          Duplicate="1" MonolithOffset="81920" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 43 fixed.wav"
+          Duplicate="1" MonolithOffset="102400" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 44 fixed.wav"
+          Duplicate="1" MonolithOffset="122880" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 45.wav"
+          Duplicate="1" MonolithOffset="143360" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 46.wav"
+          Duplicate="1" MonolithOffset="163840" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 47.wav"
+          Duplicate="1" MonolithOffset="184320" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 48.wav"
+          Duplicate="1" MonolithOffset="204800" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 49.wav"
+          Duplicate="1" MonolithOffset="225280" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 50.wav"
+          Duplicate="1" MonolithOffset="245760" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 51.wav"
+          Duplicate="1" MonolithOffset="266240" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 52.wav"
+          Duplicate="1" MonolithOffset="286720" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 53.wav"
+          Duplicate="1" MonolithOffset="307200" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 54.wav"
+          Duplicate="1" MonolithOffset="327680" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 55.wav"
+          Duplicate="1" MonolithOffset="348160" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 56.wav"
+          Duplicate="1" MonolithOffset="368640" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 57.wav"
+          Duplicate="1" MonolithOffset="389120" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 58.wav"
+          Duplicate="1" MonolithOffset="409600" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 59.wav"
+          Duplicate="1" MonolithOffset="430080" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 60.wav"
+          Duplicate="1" MonolithOffset="450560" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 61.wav"
+          Duplicate="1" MonolithOffset="471040" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 62.wav"
+          Duplicate="1" MonolithOffset="491520" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 63.wav"
+          Duplicate="1" MonolithOffset="512000" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 64.wav"
+          Duplicate="1" MonolithOffset="532480" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 65.wav"
+          Duplicate="1" MonolithOffset="552960" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 66.wav"
+          Duplicate="1" MonolithOffset="573440" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 67.wav"
+          Duplicate="1" MonolithOffset="593920" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 68.wav"
+          Duplicate="1" MonolithOffset="614400" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 69.wav"
+          Duplicate="1" MonolithOffset="634880" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 70.wav"
+          Duplicate="1" MonolithOffset="655360" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 71.wav"
+          Duplicate="1" MonolithOffset="675840" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 72.wav"
+          Duplicate="1" MonolithOffset="696320" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 73.wav"
+          Duplicate="1" MonolithOffset="716800" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 74.wav"
+          Duplicate="1" MonolithOffset="737280" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 75.wav"
+          Duplicate="1" MonolithOffset="757760" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 76.wav"
+          Duplicate="1" MonolithOffset="778240" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="38" LoKey="38" HiKey="38" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 38 fixed.wav"
+          Duplicate="1" MonolithOffset="798720" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="39" LoKey="39" HiKey="39" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 39 fixed.wav"
+          Duplicate="1" MonolithOffset="819200" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 40 fixed.wav"
+          Duplicate="1" MonolithOffset="839680" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 41 fixed.wav"
+          Duplicate="1" MonolithOffset="860160" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 42 fixed.wav"
+          Duplicate="1" MonolithOffset="880640" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 43 fixed.wav"
+          Duplicate="1" MonolithOffset="901120" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 44 fixed.wav"
+          Duplicate="1" MonolithOffset="921600" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 45.wav"
+          Duplicate="1" MonolithOffset="942080" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 46.wav"
+          Duplicate="1" MonolithOffset="962560" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 47.wav"
+          Duplicate="1" MonolithOffset="983040" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 48.wav"
+          Duplicate="1" MonolithOffset="1003520" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 49.wav"
+          Duplicate="1" MonolithOffset="1024000" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 50.wav"
+          Duplicate="1" MonolithOffset="1044480" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 51.wav"
+          Duplicate="1" MonolithOffset="1064960" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 52.wav"
+          Duplicate="1" MonolithOffset="1085440" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 53.wav"
+          Duplicate="1" MonolithOffset="1105920" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 54.wav"
+          Duplicate="1" MonolithOffset="1126400" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 55.wav"
+          Duplicate="1" MonolithOffset="1146880" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 56.wav"
+          Duplicate="1" MonolithOffset="1167360" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 57.wav"
+          Duplicate="1" MonolithOffset="1187840" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 58.wav"
+          Duplicate="1" MonolithOffset="1208320" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 59.wav"
+          Duplicate="1" MonolithOffset="1228800" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 60.wav"
+          Duplicate="1" MonolithOffset="1249280" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 61.wav"
+          Duplicate="1" MonolithOffset="1269760" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 62.wav"
+          Duplicate="1" MonolithOffset="1290240" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 63.wav"
+          Duplicate="1" MonolithOffset="1310720" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 64.wav"
+          Duplicate="1" MonolithOffset="1331200" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 65.wav"
+          Duplicate="1" MonolithOffset="1351680" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 66.wav"
+          Duplicate="1" MonolithOffset="1372160" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 67.wav"
+          Duplicate="1" MonolithOffset="1392640" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 68.wav"
+          Duplicate="1" MonolithOffset="1413120" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 69.wav"
+          Duplicate="1" MonolithOffset="1433600" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 70.wav"
+          Duplicate="1" MonolithOffset="1454080" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 71.wav"
+          Duplicate="1" MonolithOffset="1474560" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 72.wav"
+          Duplicate="1" MonolithOffset="1495040" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 73.wav"
+          Duplicate="1" MonolithOffset="1515520" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 74.wav"
+          Duplicate="1" MonolithOffset="1536000" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 75.wav"
+          Duplicate="1" MonolithOffset="1556480" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 76.wav"
+          Duplicate="1" MonolithOffset="1576960" MonolithLength="20480"
+          SampleRate="44100"/>
+</samplemap>

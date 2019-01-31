@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="pwr slap hard" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="38" LoKey="38" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 1 38.wav"
+          Duplicate="1" MonolithOffset="0" MonolithLength="368640" SampleRate="44100"/>
+  <sample Root="39" LoKey="39" HiKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 1 39.wav"
+          Duplicate="1" MonolithOffset="368640" MonolithLength="409600"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 1 40.wav"
+          Duplicate="1" MonolithOffset="778240" MonolithLength="335872"
+          SampleRate="44100"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 1 41.wav"
+          Duplicate="1" MonolithOffset="1114112" MonolithLength="335872"
+          SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 1 42.wav"
+          Duplicate="1" MonolithOffset="1449984" MonolithLength="327680"
+          SampleRate="44100"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 1 43.wav"
+          Duplicate="1" MonolithOffset="1777664" MonolithLength="364544"
+          SampleRate="44100"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 1 44.wav"
+          Duplicate="1" MonolithOffset="2142208" MonolithLength="323584"
+          SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 1 45.wav"
+          Duplicate="1" MonolithOffset="2465792" MonolithLength="335872"
+          SampleRate="44100"/>
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 1 46.wav"
+          Duplicate="1" MonolithOffset="2801664" MonolithLength="290816"
+          SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 1 47.wav"
+          Duplicate="1" MonolithOffset="3092480" MonolithLength="413696"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 1 48.wav"
+          Duplicate="1" MonolithOffset="3506176" MonolithLength="339968"
+          SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 1 49.wav"
+          Duplicate="1" MonolithOffset="3846144" MonolithLength="327680"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 1 50.wav"
+          Duplicate="1" MonolithOffset="4173824" MonolithLength="368640"
+          SampleRate="44100"/>
+  <sample Root="38" LoKey="38" HiKey="38" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 2 38.wav"
+          Duplicate="1" MonolithOffset="4542464" MonolithLength="368640"
+          SampleRate="44100"/>
+  <sample Root="39" LoKey="39" HiKey="39" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 2 39.wav"
+          Duplicate="1" MonolithOffset="4911104" MonolithLength="401408"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 2 40.wav"
+          Duplicate="1" MonolithOffset="5312512" MonolithLength="344064"
+          SampleRate="44100"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 2 41.wav"
+          Duplicate="1" MonolithOffset="5656576" MonolithLength="352256"
+          SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 2 42.wav"
+          Duplicate="1" MonolithOffset="6008832" MonolithLength="331776"
+          SampleRate="44100"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 2 43.wav"
+          Duplicate="1" MonolithOffset="6340608" MonolithLength="368640"
+          SampleRate="44100"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 2 44.wav"
+          Duplicate="1" MonolithOffset="6709248" MonolithLength="323584"
+          SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 2 45.wav"
+          Duplicate="1" MonolithOffset="7032832" MonolithLength="331776"
+          SampleRate="44100"/>
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 2 46.wav"
+          Duplicate="1" MonolithOffset="7364608" MonolithLength="294912"
+          SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 2 47.wav"
+          Duplicate="1" MonolithOffset="7659520" MonolithLength="401408"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 2 48.wav"
+          Duplicate="1" MonolithOffset="8060928" MonolithLength="331776"
+          SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 2 49.wav"
+          Duplicate="1" MonolithOffset="8392704" MonolithLength="335872"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\power slaps\final\power slap hard rr 2 50.wav"
+          Duplicate="1" MonolithOffset="8728576" MonolithLength="393216"
+          SampleRate="44100"/>
+</samplemap>

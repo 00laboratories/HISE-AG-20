@@ -21,6 +21,10 @@ Globals.key_switches = {
     harmonics:33
 };
 
+Globals.perc_rr = [0,0,0,0,0,0];
+
+Globals.noise_slide_rr = 0;
+
 // shorter print function
 Globals.log = function(msg){
     Console.print(msg);

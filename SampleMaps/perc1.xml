@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="perc1" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="1" LoKey="1" HiKey="1" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\final\palm thump 1.wav"
+          Duplicate="1" MonolithOffset="0" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="2" LoKey="2" HiKey="2" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\final\palm thump 2.wav"
+          Duplicate="1" MonolithOffset="24576" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="3" LoKey="3" HiKey="3" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\final\palm thump 3.wav"
+          Duplicate="1" MonolithOffset="61440" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="4" LoKey="4" HiKey="4" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\final\palm thump 4.wav"
+          Duplicate="1" MonolithOffset="98304" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="5" LoKey="5" HiKey="5" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\final\palm thump 5.wav"
+          Duplicate="1" MonolithOffset="131072" MonolithLength="36864"
+          SampleRate="44100"/>
+  <sample Root="6" LoKey="6" HiKey="6" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="H:\Music Production\Custom\AG-20\samples\percussive\final\palm thump 6.wav"
+          Duplicate="1" MonolithOffset="167936" MonolithLength="36864"
+          SampleRate="44100"/>
+</samplemap>

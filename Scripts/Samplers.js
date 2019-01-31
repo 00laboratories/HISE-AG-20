@@ -13,7 +13,17 @@ namespace Samplers
         "4th_soft":Synth.getMidiProcessor("interval 4th soft muter"),
         "4th_hard":Synth.getMidiProcessor("interval 4th hard muter"),
         "5th_soft":Synth.getMidiProcessor("interval 5th soft muter"),
-        "5th_hard":Synth.getMidiProcessor("interval 5th hard muter")
+        "5th_hard":Synth.getMidiProcessor("interval 5th hard muter"),
+        perc1:Synth.getMidiProcessor("perc1 muter"),
+        perc2:Synth.getMidiProcessor("perc2 muter"),
+        perc3:Synth.getMidiProcessor("perc3 muter"),
+        perc4:Synth.getMidiProcessor("perc4 muter"),
+        perc5:Synth.getMidiProcessor("perc5 muter"),
+        pwr_slap_soft:Synth.getMidiProcessor("pwr slap soft muter"),
+        pwr_slap_hard:Synth.getMidiProcessor("pwr slap hard muter"),
+        harmonics:Synth.getMidiProcessor("harmonics muter"),
+        noise_slide:Synth.getMidiProcessor("noise slide muter"),
+        release:Synth.getMidiProcessor("release muter"),
     };
 
     // mute all samplers
