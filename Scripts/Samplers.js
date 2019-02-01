@@ -3,7 +3,7 @@ namespace Samplers
     reg muter;
 
     // all muters used to enable and disable samplers
-    const var midiMuters = {
+    /*const var midiMuters = {
         sus_soft:Synth.getMidiProcessor("sustain soft muter"),
         sus_hard:Synth.getMidiProcessor("sustain hard muter"),
         min3rd_soft:Synth.getMidiProcessor("interval min3rd soft muter"),
@@ -24,7 +24,9 @@ namespace Samplers
         harmonics:Synth.getMidiProcessor("harmonics muter"),
         noise_slide:Synth.getMidiProcessor("noise slide muter"),
         release:Synth.getMidiProcessor("release muter"),
-    };
+    };*/
+    
+    
 
     // mute all samplers
     inline function disableAll(){

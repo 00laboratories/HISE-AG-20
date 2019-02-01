@@ -2,7 +2,7 @@
 // keeping track of actively playing notes
 Globals.released_notes = [];
 Globals.released_notes_idx = 0;
-for(var i = 0; i < 32;i++){
+for(var i = 0; i < 64;i++){
     Globals.released_notes[i] = {
         note : 0,
         start_time : 0
@@ -12,7 +12,7 @@ for(var i = 0; i < 32;i++){
 Globals.storeReleaseNoteInfo = function(note){
     Globals.released_notes[Globals.released_notes_idx].note = note;
     Globals.released_notes[Globals.released_notes_idx].start_time = Engine.getUptime();
-    Globals.released_notes_idx = (Globals.released_notes_idx+1) % 32;
+    Globals.released_notes_idx = (Globals.released_notes_idx+1) % 64;
 };
 
 // reset data at array index

@@ -2,7 +2,7 @@
 // keeping track of playedly playing notes
 Globals.played_notes = [];
 Globals.played_notes_idx = 0;
-for(var i = 0; i < 32;i++){
+for(var i = 0; i < 64;i++){
     Globals.played_notes[i] = {
         note : 0,
         velocity : 0,
@@ -11,11 +11,11 @@ for(var i = 0; i < 32;i++){
 };
 
 // store data about a played note
-Globals.storePlayedNoteInfo = function(note, velocity){
+inline function storePlayedNoteInfo(note, velocity){
     Globals.played_notes[Globals.played_notes_idx].note = note;
     Globals.played_notes[Globals.played_notes_idx].velocity = velocity;
     Globals.played_notes[Globals.played_notes_idx].start_time = Engine.getUptime(); 
-    Globals.played_notes_idx = (Globals.played_notes_idx+1) % 32;
+    Globals.played_notes_idx = (Globals.played_notes_idx+1) % 64;
 };
 
 // fade out all notes of input note value and reset played note values

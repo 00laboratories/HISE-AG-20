@@ -29,3 +29,31 @@ Globals.noise_slide_rr = 0;
 Globals.log = function(msg){
     Console.print(msg);
 };
+
+// array of id's that samplers can play
+Globals.SamplerNoteIds = {
+    "sus_soft":[],
+    "sus_hard":[],
+    "min3rd_soft":[],
+    "min3rd_hard":[],
+    "maj3rd_soft":[],
+    "maj3rd_hard":[],
+    "4th_soft":[],
+    "4th_hard":[],
+    "5th_soft":[],
+    "5th_hard":[],
+    "perc1":[],
+    "perc2":[],
+    "perc3":[],
+    "perc4":[],
+    "perc5":[],
+    "pwr_slap_soft":[],
+    "pwr_slap_hard":[],
+    "noise_slide":[],
+    "harmonics":[],
+    "release":[],
+};
+
+Globals.pushId = function(sampler, id){
+    Globals.SamplerNoteIds[sampler].push(id);
+}
