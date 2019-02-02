@@ -54,6 +54,6 @@ Globals.SamplerNoteIds = {
     "release":[],
 };
 
-Globals.pushId = function(sampler, id){
-    Globals.SamplerNoteIds[sampler].push(id);
+Globals.pushId = function(a1, a2){
+    Globals.SamplerNoteIds[a1].push(a2);
 }

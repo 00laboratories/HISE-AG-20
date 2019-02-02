@@ -1,8 +1,5 @@
 namespace Intervals
-{
-    reg note;
-    reg st; // semitones
-          
+{          
     Globals.intervalBuffer = [];
     for(var i = 0; i < 8; i++){
         Globals.intervalBuffer[i] = {
@@ -31,17 +28,20 @@ namespace Intervals
     }
             
     inline function resetIntervalNotes(i1, i2){
-        Globals.resetPlayedNote(i1);
-        Globals.resetPlayedNote(i2);
+        resetPlayedNote(i1);
+        resetPlayedNote(i2);
     }
+    
+    reg i;
+    reg j;
 
     inline function findIntervals(){
-        for(var i = 0; i < 64; i++){
-            note = played_notes[i].note;
+        for(i = 0; i < 64; i++){
+            local note = played_notes[i].note;
             if(note >= Globals.interval_boundaries[0] && note <= Globals.interval_boundaries[1]){
-                for(var j = 0; j < 64; j++){
+                for(j = 0; j < 64; j++){
                     
-                   st = Globals.played_notes[j].note - note;
+                   local st = Globals.played_notes[j].note - note;
                    if(st == 7){
                        storeInterval("5th", Globals.played_notes[i]);
                        //log("5th - " + note);

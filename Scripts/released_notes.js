@@ -9,7 +9,7 @@ for(var i = 0; i < 64;i++){
     };
 };
 // store data about a played note
-Globals.storeReleaseNoteInfo = function(note){
+inline function storeReleaseNoteInfo(note){
     Globals.released_notes[Globals.released_notes_idx].note = note;
     Globals.released_notes[Globals.released_notes_idx].start_time = Engine.getUptime();
     Globals.released_notes_idx = (Globals.released_notes_idx+1) % 64;
