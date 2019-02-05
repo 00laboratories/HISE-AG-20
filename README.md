@@ -3,7 +3,7 @@ Fingerpicked Acoustic Guitar Library (AG-20) for HISE. The guitar is a Richwood 
 Samples are not included and [can be purchased from our store](https://00laboratories.com/product/acoustic-guitar-library).
 
 <p align="center">
-  <img src="https://00laboratories.com/wp-content/uploads/2019/01/ag-20-vst-interface.png" />
+  <img src="https://00laboratories.com/wp-content/uploads/2019/02/ag-20-vst-interface.png" />
 </p>
 
 ### Description
