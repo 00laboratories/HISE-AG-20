@@ -14,7 +14,7 @@ Samples are not included and [can be purchased from our store](https://00laborat
 - Power chord slaps from D1 to D2 with both soft and hard dynamic layers and 2 round robins.
 - When the Power Slap keyswitch is held down they keyboard range where it is playable will change color.
 - Release samples for every note with 2 round robins.
-- Release samples can only trigger if release time is set to 250ms or lower.
+- - Release samples can only trigger if release time is set to 250ms or lower.
 - Harmonics in range D2 to G4 with 2 round robins.
 - 12-string guitar simulation mode, in octaves up to the high E string. From there it turns into unison.
  
