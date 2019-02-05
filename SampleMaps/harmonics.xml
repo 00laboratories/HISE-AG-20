@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <samplemap ID="harmonics" RRGroupAmount="2" MicPositions=";" SaveMode="2">
-  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="2"
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="0" HiVel="127" RRGroup="2"
           FileName="H:\Music Production\Custom\AG-20\samples\harmonics\final\Harmonic rr2 50.wav"
           Duplicate="1" MonolithOffset="0" MonolithLength="532480" SampleRate="44100"/>
   <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="2"
@@ -116,11 +116,11 @@
           FileName="H:\Music Production\Custom\AG-20\samples\harmonics\final\Harmonic rr2 78.wav"
           Duplicate="1" MonolithOffset="13836288" MonolithLength="331776"
           SampleRate="44100"/>
-  <sample Root="79" LoKey="79" HiKey="79" LoVel="0" HiVel="127" RRGroup="2"
+  <sample Root="79" LoKey="79" HiKey="81" LoVel="0" HiVel="127" RRGroup="2"
           FileName="H:\Music Production\Custom\AG-20\samples\harmonics\final\Harmonic rr2 79.wav"
           Duplicate="1" MonolithOffset="14168064" MonolithLength="425984"
           SampleRate="44100"/>
-  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\harmonics\final\Harmonic rr1 50.wav"
           Duplicate="1" MonolithOffset="14594048" MonolithLength="520192"
           SampleRate="44100"/>
@@ -236,7 +236,7 @@
           FileName="H:\Music Production\Custom\AG-20\samples\harmonics\final\Harmonic rr1 78.wav"
           Duplicate="1" MonolithOffset="28033024" MonolithLength="311296"
           SampleRate="44100"/>
-  <sample Root="79" LoKey="79" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+  <sample Root="79" LoKey="79" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\harmonics\final\Harmonic rr1 79.wav"
           Duplicate="1" MonolithOffset="28344320" MonolithLength="299008"
           SampleRate="44100"/>

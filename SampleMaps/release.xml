@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <samplemap ID="release" RRGroupAmount="2" MicPositions=";" SaveMode="2">
-  <sample Root="38" LoKey="38" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+  <sample Root="38" LoKey="36" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 38 fixed.wav"
           Duplicate="1" MonolithOffset="0" MonolithLength="20480" SampleRate="44100"/>
   <sample Root="39" LoKey="39" HiKey="39" LoVel="0" HiVel="127" RRGroup="1"
@@ -148,11 +148,11 @@
           FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 75.wav"
           Duplicate="1" MonolithOffset="757760" MonolithLength="20480"
           SampleRate="44100"/>
-  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+  <sample Root="76" LoKey="76" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
           FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr1 76.wav"
           Duplicate="1" MonolithOffset="778240" MonolithLength="20480"
           SampleRate="44100"/>
-  <sample Root="38" LoKey="38" HiKey="38" LoVel="0" HiVel="127" RRGroup="2"
+  <sample Root="38" LoKey="36" HiKey="38" LoVel="0" HiVel="127" RRGroup="2"
           FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 38 fixed.wav"
           Duplicate="1" MonolithOffset="798720" MonolithLength="20480"
           SampleRate="44100"/>
@@ -304,7 +304,7 @@
           FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 75.wav"
           Duplicate="1" MonolithOffset="1556480" MonolithLength="20480"
           SampleRate="44100"/>
-  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="127" RRGroup="2"
+  <sample Root="76" LoKey="76" HiKey="78" LoVel="0" HiVel="127" RRGroup="2"
           FileName="H:\Music Production\Custom\AG-20\samples\release\final\release rr2 76.wav"
           Duplicate="1" MonolithOffset="1576960" MonolithLength="20480"
           SampleRate="44100"/>

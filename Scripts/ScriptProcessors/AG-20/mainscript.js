@@ -6,36 +6,38 @@ include("globals.js");
 include("interface.js");
 
 include("active_notes.js");
+include("active_notes_functions.js");
+
 include("played_notes.js");
+include("played_notes_functions.js");
+
 include("released_notes.js");
 
-reg note;
-reg velocity;
-function onNoteOn()
+reg noteOn;
+reg noteOff;function onNoteOn()
 {        
-   /* Message.ignoreEvent(true);
+    Message.ignoreEvent(true);
     
-    note = Message.getNoteNumber();
+    noteOn = Message.getNoteNumber();
     // store played note info if it is within range
     //if(note >= playable_range[0] & note <= playable_range[1]){
-    velocity = Message.getVelocity();       
-    storePlayedNoteInfo(note, velocity);
+    //var velocity = Message.getVelocity();       
+    storePlayedNoteInfo(noteOn, Message.getVelocity());
     //}
         
     // set value in midi list 
-    Globals.midiList.setValue(note, 1);*/
-
+    Globals.midiList.setValue(noteOn, 1);
 }
 function onNoteOff()
 { 
-    /*Message.ignoreEvent(true);
+    Message.ignoreEvent(true);
         
-    note = Message.getNoteNumber();
+    //var note = Message.getNoteNumber();
 
 	//storeReleaseNoteInfo(note);
-
+	
 	// set value in midi list 
-    Globals.midiList.setValue(note, 0);*/
+    Globals.midiList.setValue(Message.getNoteNumber(), 0);
     
 }
 function onController()
@@ -46,7 +48,10 @@ function onController()
 }
 function onTimer()
 {
-	
+    /*if(Globals.Interface.Predictive_Playback.getValue() == 1 && Globals.midiList.getValue(Globals.key_switches.harmonics) == 0){
+        Intervals.findIntervals(); 
+    }       
+	playNotes();*/
 }
 function onControl(number, value)
 {
