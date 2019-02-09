@@ -11,7 +11,7 @@ for(var i = 0; i < 64;i++){
 };
 
 // store data about a played note
-inline function storePlayedNoteInfo(note, velocity){
+/*inline function storePlayedNoteInfo(note, velocity){
     Globals.played_notes[Globals.played_notes_idx].note = note;
     Globals.played_notes[Globals.played_notes_idx].velocity = velocity;
     Globals.played_notes[Globals.played_notes_idx].start_time = Engine.getUptime(); 
@@ -23,4 +23,4 @@ Globals.resetPlayedNote = function(index){
     Globals.played_notes[index].note = 0;
     Globals.played_notes[index].velocity = 0;
     Globals.played_notes[index].start_time = 0;
-};
+};*/

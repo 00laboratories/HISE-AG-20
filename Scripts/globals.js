@@ -1,5 +1,7 @@
+
 // global static 
 Globals.playable_range = [38,76];
+
 
 // predictive playback 
 Globals.playback_delay = 25/1000; // 25 ms
@@ -30,30 +32,20 @@ Globals.log = function(msg){
     Console.print(msg);
 };
 
-// array of id's that samplers can play
-Globals.SamplerNoteIds = {
-    "sus_soft":[],
-    "sus_hard":[],
-    "min3rd_soft":[],
-    "min3rd_hard":[],
-    "maj3rd_soft":[],
-    "maj3rd_hard":[],
-    "4th_soft":[],
-    "4th_hard":[],
-    "5th_soft":[],
-    "5th_hard":[],
-    "perc1":[],
-    "perc2":[],
-    "perc3":[],
-    "perc4":[],
-    "perc5":[],
-    "pwr_slap_soft":[],
-    "pwr_slap_hard":[],
-    "noise_slide":[],
-    "harmonics":[],
-    "release":[],
-};
+Globals.SamplerNoteIds = [];
+    
+for(var i = 0; i < 32; i++){
+    Globals.SamplerNoteIds[i] = [];
+    for(var j = 0; j < 8; j++){
+        Globals.SamplerNoteIds[i][j] = -1;
+    }
+}
 
-Globals.pushId = function(a1, a2){
-    Globals.SamplerNoteIds[a1].push(a2);
+inline function pushId(a1, a2){
+    for(var i = 0; i < 8; i++){
+        if(Globals.SamplerNoteIds[a1][i] === -1){
+            Globals.SamplerNoteIds[a1][i] = a2;
+            break;
+        }
+    }
 }
