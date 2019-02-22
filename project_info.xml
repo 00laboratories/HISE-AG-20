@@ -3,9 +3,9 @@
 <ProjectSettings>
   <Name value="AG-20"/>
   <Version value="1.0.0"/>
-  <Description value=""/>
-  <BundleIdentifier value="com.myCompany.product"/>
-  <PluginCode value="Abcd"/>
+  <Description value="Acoustic Guitar"/>
+  <BundleIdentifier value="com.00laboratories.ag-20"/>
+  <PluginCode value="Olbb"/>
   <EmbedAudioFiles value="Yes"/>
   <SupportFullDynamicsHLAC value="No"/>
   <AdditionalDspLibraries value=""/>
