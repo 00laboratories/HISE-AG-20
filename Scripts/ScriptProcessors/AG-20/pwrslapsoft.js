@@ -1,13 +1,14 @@
-const var identifier = "pwr_slap_soft";
+const var identifier = 16;
 
 reg input_id;
 function onNoteOn()
 {
     input_id = Message.getEventId();
 
-	for(var i = 0; i < Globals.SamplerNoteIds[identifier].length; i++){
-	    if(Globals.SamplerNoteIds[identifier][i] == input_id){
-	        Globals.SamplerNoteIds[identifier].remove(input_id);
+    local i;
+	for(i = 0; i < 8; i++){
+	    if(Globals.SamplerNoteIds[identifier][i] === input_id){   
+	        Globals.SamplerNoteIds[identifier][i] = -1;
 	        return;
 	    }
 	}
